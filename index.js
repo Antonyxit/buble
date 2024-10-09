@@ -11,7 +11,7 @@ const require = createRequire(__dirname);
 const {say} = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
 
-say('𝐕𝐚𝐥𝐞 & 𝐲𝐚𝐬𝐢𝐞𝐥\nBot', {
+say('𝐏𝐈𝐊𝐀𝐂𝐇𝐔\nBot', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
