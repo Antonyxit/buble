@@ -15,26 +15,26 @@ global.isBaileysFail = false
 
 global.owner = [
   ['5214461281232', 'KeroppiBot', true],
-  ['5215610035034', 'Colaborador', true],
-  ['5215610035034', 'AntonyxT', true],
+  ['5215517470626', 'Colaborador', true],
+  ['5215517470626', 'AntonyxT', true],
 ];
 
-global.suittag = ['5215610035034'];
-global.prems = ['5215610035034'];
+global.suittag = ['5215517470626'];
+global.prems = ['5215517470626'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = '𝐎𝐑𝐄𝐎';
-global.author = '𝐎𝐑𝐄𝐎';
-global.wm = '𝐎𝐑𝐄𝐎';
+global.packname = '𝐁𝐔𝐁𝐋𝐄';
+global.author = '𝐁𝐔𝐁𝐋𝐄';
+global.wm = '𝐁𝐔𝐁𝐋𝐄';
 global.idioma = 'es';
 global.ig = '';
-global.etiqueta = 'ACTIVENSE 𝐎𝐑𝐄𝐎 BOT LES HABLA';
+global.etiqueta = 'ACTIVENSE 𝐁𝐔𝐁𝐋𝐄 BOT LES HABLA';
 global.emojietiqueta = '🍪';
-global.titulowm = '𝐎𝐑𝐄𝐎';
-global.titulowm2 = `𝐎𝐑𝐄𝐎`
-global.igfg = '𝐎𝐑𝐄𝐎';
+global.titulowm = '𝐁𝐔𝐁𝐋𝐄';
+global.titulowm2 = `𝐁𝐔𝐁𝐋𝐄`
+global.igfg = '𝐁𝐔𝐁𝐋𝐄';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -54,9 +54,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐎𝐑𝐄𝐎`;
-global.gt = '𝐎𝐑𝐄𝐎';
-global.mysticbot = '𝐎𝐑𝐄𝐎';
+global.wm2 = `${dia} ${fecha}\n𝐁𝐔𝐁𝐋𝐄`;
+global.gt = '𝐁𝐔𝐁𝐋𝐄';
+global.mysticbot = '𝐁𝐔𝐁𝐋𝐄';
 global.channel = 'https://chat.whatsapp.com/DbvFdi5FdDzF441vYsIsHT';
 global.md = 'https://chat.whatsapp.com/DbvFdi5FdDzF441vYsIsHT';
 global.mysticbot = 'https://chat.whatsapp.com/DbvFdi5FdDzF441vYsIsHT';
