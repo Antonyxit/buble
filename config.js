@@ -15,26 +15,26 @@ global.isBaileysFail = false
 
 global.owner = [
   ['5214461281232', 'KeroppiBot', true],
-  ['5219711451321', 'Colaborador', true],
-  ['5219711451321', 'AntonyxT', true],
+  ['5215610035034', 'Colaborador', true],
+  ['5215610035034', 'AntonyxT', true],
 ];
 
-global.suittag = ['5219711451321'];
-global.prems = ['5219711451321'];
+global.suittag = ['5215610035034'];
+global.prems = ['5215610035034'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = '𝐏𝐈𝐊𝐀𝐂𝐇𝐔';
-global.author = '𝐏𝐈𝐊𝐀𝐂𝐇𝐔';
-global.wm = '𝐏𝐈𝐊𝐀𝐂𝐇𝐔';
+global.packname = '𝐎𝐑𝐄𝐎';
+global.author = '𝐎𝐑𝐄𝐎';
+global.wm = '𝐎𝐑𝐄𝐎';
 global.idioma = 'es';
 global.ig = '';
-global.etiqueta = 'ACTIVENSE 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 BOT LES HABLA';
-global.emojietiqueta = '🍀';
-global.titulowm = '𝐏𝐈𝐊𝐀𝐂𝐇𝐔';
-global.titulowm2 = `𝐏𝐈𝐊𝐀𝐂𝐇𝐔`
-global.igfg = '𝐏𝐈𝐊𝐀𝐂𝐇𝐔';
+global.etiqueta = 'ACTIVENSE 𝐎𝐑𝐄𝐎 BOT LES HABLA';
+global.emojietiqueta = '🍪';
+global.titulowm = '𝐎𝐑𝐄𝐎';
+global.titulowm2 = `𝐎𝐑𝐄𝐎`
+global.igfg = '𝐎𝐑𝐄𝐎';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -54,12 +54,12 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐏𝐈𝐊𝐀𝐂𝐇𝐔`;
-global.gt = '𝐏𝐈𝐊𝐀𝐂𝐇𝐔';
-global.mysticbot = '𝐏𝐈𝐊𝐀𝐂𝐇𝐔';
-global.channel = 'https://chat.whatsapp.com/CW0CWQPN6oV2qAPF6pLWPQ';
-global.md = 'https://chat.whatsapp.com/CW0CWQPN6oV2qAPF6pLWPQ';
-global.mysticbot = 'https://chat.whatsapp.com/CW0CWQPN6oV2qAPF6pLWPQ';
+global.wm2 = `${dia} ${fecha}\n𝐎𝐑𝐄𝐎`;
+global.gt = '𝐎𝐑𝐄𝐎';
+global.mysticbot = '𝐎𝐑𝐄𝐎';
+global.channel = 'https://chat.whatsapp.com/DbvFdi5FdDzF441vYsIsHT';
+global.md = 'https://chat.whatsapp.com/DbvFdi5FdDzF441vYsIsHT';
+global.mysticbot = 'https://chat.whatsapp.com/DbvFdi5FdDzF441vYsIsHT';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
